@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStrings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entre>
+    <input>morning,1,2,3</input>
+    <result>eggs,toast,coffee</result>
+  </entre>
+  <entre>
+    <input>morning,1,2,3</input>
+    <result>eggs,toast,coffee</result>
+  </entre>
+  <entre>
+    <input>morning,1,2,3,4</input>
+    <result>eggs,toast,coffee,error</result>
+  </entre>
+</ArrayOfStrings>
